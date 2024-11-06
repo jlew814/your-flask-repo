@@ -1,0 +1,9 @@
+  - Provide a brief description of the project and purpose (e.g., deploying a Flask app on AWS EC2).
+  - Detailed setup instructions (summary of the steps you shared).
+  - Sections to include:
+     - **Introduction**: Brief overview of the Flask application.
+     - **Prerequisites**: Requirements and what needs to be set up beforehand.
+     - **Step-by-Step Guide**: 
+        - Summarize each step in your instructions, but include specifics like commands and screenshots if possible.
+        - Add notes on any potential troubleshooting steps for common errors.
+     - **Access and Testing**: Guide on verifying the app in a browser.
